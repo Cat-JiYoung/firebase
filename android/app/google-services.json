@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "22850164501",
+    "project_id": "exercise2-5f803",
+    "storage_bucket": "exercise2-5f803.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22850164501:android:35f6a99a8b69f7c557bb1c",
+        "android_client_info": {
+          "package_name": "com.crayon.Cuk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22850164501-a979qn0htacqn6jiil8k032hqput4kvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYYW1XPH2y_bjbuJhwFanC5fBanXACBkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22850164501-a979qn0htacqn6jiil8k032hqput4kvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
